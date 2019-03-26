@@ -3,7 +3,7 @@ import babel from 'rollup-plugin-babel';
 export default {
     input: './src/index.js',
     output: {
-        file: './dist/xieyezi-storage.js',
+        file: './dist/xieyezi-storage.umd.js',
         format: 'umd',
         name:'xieyezi-storage'
     },
