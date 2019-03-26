@@ -1,6 +1,6 @@
 {
   "name": "xieyezi-storage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a package that encapsulates localStorage and sessionStorage",
   "main": "index.js",
   "scripts": {
