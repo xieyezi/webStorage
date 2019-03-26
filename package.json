@@ -1,8 +1,8 @@
 {
   "name": "xieyezi-storage",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a package that encapsulates localStorage and sessionStorage",
-  "main": "index.js",
+  "main": "dist/xieyezi-storage.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
