@@ -1,8 +1,9 @@
 {
   "name": "xieyezi-storage",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a package that encapsulates localStorage and sessionStorage",
   "main": "dist/xieyezi-storage.js",
+  "module": "dist/xieyezi-storage.esm.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

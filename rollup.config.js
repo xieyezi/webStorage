@@ -4,7 +4,7 @@ export default {
     input: './src/index.js',
     output: {
         file: './dist/xieyezi-storage.js',
-        format: 'es',
+        format: 'umd',
         name:'xieyezi-storage'
     },
     plugins: [
